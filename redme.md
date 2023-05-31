@@ -7,3 +7,6 @@ En este repositorio de código se subirá la imformación de los ejemplos de las
 * Memoria Estática
 * Recursividad
 * Listas
+
+# Aprender Python
+
